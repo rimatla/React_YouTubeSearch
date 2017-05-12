@@ -1,0 +1,38 @@
+/* Glyphicons*/
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+  padding: 6px;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eeeeee;
+}
+
+span.glyphicon.glyphicon-search {
+  padding-left: 5px;
+  font-size: 20px;
+  position: relative;
+  top: 5px;
+}
